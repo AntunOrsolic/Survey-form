@@ -1,0 +1,29 @@
+body{
+    font-family: Tahoma;
+    text-align: center;
+    }
+    #outside{
+    background-color: #8B0000;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    }
+    
+    h1{
+    text-align: center;
+    color: #F0FFFF;
+    }
+    p{
+    font-style: italic;
+    text-align: center;
+    padding-bottom: 10px;
+    color: #F0FFFF;
+    }
+    form{
+    width: 70%;
+    margin: 0 auto;
+    text-align: left;
+    border: 1px solid #cCC;
+    padding: 2em;
+    background-color: #19699B;
+    display: inline-block; 
+    }
